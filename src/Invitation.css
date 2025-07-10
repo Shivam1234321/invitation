@@ -1,0 +1,169 @@
+.invitation-bg {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #aee9f7 0%, #fffde4 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Mangal', Arial, sans-serif;
+}
+
+.invitation-card {
+  background: rgba(255,255,255,0.95);
+  border-radius: 24px;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.12);
+  padding: 36px 24px;
+  max-width: 420px;
+  width: 100%;
+  text-align: center;
+}
+
+.invitation-title {
+  color: #e53935;
+  font-size: 2.2rem;
+  font-weight: bold;
+  margin-bottom: 8px;
+  letter-spacing: 1px;
+}
+
+.invitation-subtitle {
+  color: #388e3c;
+  font-size: 1.1rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.invitation-main {
+  color: #b71c1c;
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin-bottom: 6px;
+  text-shadow: 1px 1px 0 #fff;
+}
+
+.invitation-restaurant {
+  color: #d32f2f;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.invitation-address {
+  color: #283593;
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 16px;
+}
+
+.invitation-ceremony {
+  color: #d32f2f;
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-bottom: 18px;
+}
+
+.highlight {
+  color: #e53935;
+  font-size: 1.5rem;
+}
+
+.invitation-date-row {
+  display: flex;
+  justify-content: center;
+  gap: 18px;
+  margin-bottom: 18px;
+}
+
+.invitation-date-block {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  padding: 10px 18px;
+  min-width: 90px;
+}
+
+.invitation-date-label {
+  color: #6d4c41;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.invitation-date-number {
+  color: #1565c0;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.invitation-date-year,
+.invitation-date-time {
+  color: #6d4c41;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.invitation-message {
+  color: #1565c0;
+  font-size: 1rem;
+  margin: 12px 0 10px 0;
+}
+
+.invitation-guests {
+  margin: 10px 0;
+}
+
+.guest-label {
+  color: #283593;
+  font-weight: bold;
+  font-size: 1rem;
+}
+
+.guest-name {
+  color: #d32f2f;
+  font-weight: bold;
+  font-size: 1.1rem;
+  margin-left: 4px;
+}
+
+.guest-name.main {
+  font-size: 1.2rem;
+}
+
+.invitation-organizers {
+  color: #388e3c;
+  font-weight: bold;
+  font-size: 1rem;
+  margin: 10px 0;
+}
+
+.organizer-names {
+  color: #d32f2f;
+  font-size: 1.1rem;
+}
+
+.invitation-price {
+  background: #00897b;
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.1rem;
+  border-radius: 30px;
+  padding: 8px 24px;
+  margin: 18px auto 8px auto;
+  display: inline-block;
+}
+
+.invitation-order {
+  background: #e53935;
+  color: #fff;
+  font-weight: bold;
+  font-size: 1rem;
+  border-radius: 10px;
+  padding: 5px 18px;
+  margin: 8px auto;
+  display: inline-block;
+}
+
+.invitation-contact {
+  color: #1565c0;
+  font-weight: bold;
+  font-size: 1rem;
+  margin: 10px 0 0 0;
+} 
