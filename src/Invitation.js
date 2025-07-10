@@ -38,7 +38,7 @@ export default function Invitation() {
           </div>
           <div>
             <span className="guest-label">विशिष्ट अतिथि-</span>
-            <span className="guest-name">अंकुल मोर्च</span>
+            <span className="guest-name">अंकुल मौर्य</span>
           </div>
         </div>
         <div className="invitation-organizers">
